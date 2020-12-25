@@ -1,0 +1,23 @@
+.tagline {
+font-family: Verdana, 'Times New Roman', Times, serif;
+font-size: medium;
+font-weight: bold;
+}
+
+.title {
+    font-family: Verdana, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.wrapper {
+    align-content: center;
+    align-items: center;
+    background-color: #6495ED;
+    display: flex;
+    flex-direction: column;
+    height: 150px;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+}
